@@ -11,7 +11,7 @@ Created on Thu Oct 13 13:49:17 2022
 #经典的bagging机器学习
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

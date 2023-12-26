@@ -10,7 +10,7 @@ Created on Sun Oct  9 20:54:04 2022
 #（3）Xgboost在每轮迭代时，支持对数据进行随机采样（类似RF）；（4）Xgboost支持缺失值处理。
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -35,7 +35,7 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
 #自行安装xgboost，https://www.lfd.uci.edu/~gohlke/pythonlibs/#xgboost 安装到Anaconda3\Scripts目录下，然后在该目录下的控制台
-#pip install xgboost-1.6.1-cp39-cp39-win_amd64.whl
+#pip install xgboost-1.6.1-cp39-cp39-win_amd64.whl 记得对应python版本选择下载
 
 #构建xgboost模型
 import xgboost as xgb

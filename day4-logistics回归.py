@@ -6,7 +6,7 @@ Created on Sun Oct  9 13:58:51 2022
 """
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 #1.数据导入与处理
 import pandas as pd

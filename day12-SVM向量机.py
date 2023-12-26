@@ -18,7 +18,7 @@ Created on Mon Oct 10 14:13:47 2022
 #通过算法计算出一个最佳超平面（泛化能力最好、鲁棒性最强即稳定性），用于数据分类
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 #导入库
 import numpy as np

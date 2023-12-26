@@ -9,7 +9,7 @@ Created on Thu Oct 13 15:24:34 2022
 #在scikitlearn中adaboost默认是DT模型
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

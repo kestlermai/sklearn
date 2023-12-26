@@ -8,7 +8,7 @@ Created on Tue Oct 11 21:31:20 2022
 #logistics回归建模-调参
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

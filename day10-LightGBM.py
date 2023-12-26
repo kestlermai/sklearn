@@ -8,7 +8,7 @@ Created on Sun Oct  9 21:33:04 2022
 #LightGBM相对于xgboost，具有训练速度快和内存占用率低的特点
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 import numpy as np
 import matplotlib.pyplot as plt

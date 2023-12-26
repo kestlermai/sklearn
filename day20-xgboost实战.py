@@ -8,7 +8,7 @@ Created on Thu Oct 13 16:08:41 2022
 #Xgboost建模
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -347,6 +347,7 @@ cm_test = confusion_matrix(y_test, y_pred)
 cm_train = confusion_matrix(y_train, y_trainpred)
 print(cm_train)
 print(cm_test)
+
 import math
 from sklearn.metrics import confusion_matrix,roc_auc_score,auc,roc_curve
 cm = confusion_matrix(y_test, y_pred)   

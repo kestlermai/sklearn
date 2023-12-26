@@ -10,7 +10,7 @@ Created on Sun Oct  9 21:52:34 2022
 #预测偏移处理，从而减少模型的过拟合
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 import numpy as np
 import matplotlib.pyplot as plt

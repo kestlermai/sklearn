@@ -10,7 +10,7 @@ Created on Mon Oct 10 15:06:20 2022
 #高斯朴素贝叶斯GaussianNB即正态分布
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 #导入库
 import numpy as np

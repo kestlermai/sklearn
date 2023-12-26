@@ -8,7 +8,7 @@ Created on Wed Oct 12 20:58:37 2022
 #KNN实战调参
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 import numpy as np
 import matplotlib.pyplot as plt

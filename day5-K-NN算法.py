@@ -6,7 +6,7 @@ Created on Sun Oct  9 14:35:40 2022
 """
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 #KNN（K-Nearest Neihbor）算法，K-近邻算法,
 #通过K值=主观设定，而且应该取奇数，K值不能取太小，比如K=1的情况，此时容易被错误的样本干扰，造成过拟合。

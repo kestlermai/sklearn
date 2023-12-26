@@ -11,7 +11,7 @@ Created on Sun Oct  9 16:29:06 2022
 #第一步构建决策树，第二步根据决策树的分类器结果做出预测；跟决策树的最大区别是根节点和分割特征节点的过程是随机进行的
 
 import os
-os.chdir('C:/Users/11146/Desktop/python-test') ##修改路径
+os.chdir('C:/Users/maihuanzhuo/Desktop/python-test') ##修改路径
 
 
 import numpy as np
